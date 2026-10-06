@@ -1,0 +1,7 @@
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <WDVersion>1670</WDVersion>
+        <JavaHome>"C:\Program Files"\Java\jdk1.8.0_191\bin\</JavaHome>
+        <NetcoreVersion>net6.0</NetcoreVersion>
+    </PropertyGroup>
+</Project>
